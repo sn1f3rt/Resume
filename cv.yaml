@@ -45,7 +45,7 @@ cv:
                 start_date: 2023-08
                 end_date: 2023-09
                 highlights:
-                    - Created a Typing Speed Test GUI using Tkinter, having WPM calculation with up to **95% accuracy** showcasing user-focussed design
+                    - Created a Typing Speed Test GUI using Tkinter, having WPM calculation with up to **95% accuracy** showcasing user-focused design
         projects:
             -   name: Expense Tracker
                 date: '[GitHub - Sn1F3rt/expense-tracker](https://github.com/Sn1F3rt/expense-tracker)'
