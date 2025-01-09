@@ -1,0 +1,179 @@
+cv:
+    name: Sayan Bhattacharyya
+    title: Full-Stack Developer
+    location: Gurugram, HR, India
+    email: sayan@sn1f3rt.dev
+    phone: tel:+91-8448462399
+    website: https://sn1f3rt.dev
+    social_networks:
+        -   network: LinkedIn
+            username: sayan-bhattacharyya
+        -   network: GitHub
+            username: Sn1F3rt
+    sections:
+        summary:
+            - I am a full-stack developer pursuing a B.Tech in Computer Science & Engineering at Amity University, Haryana. I am **graduating in June 2025**. Proficient in **Python, JavaScript, TypeScript, Flask, and the MERN stack**, I thrive as both a **team player and leader** in dynamic, high-pressure environments. I am passionate about building **scalable applications** and contributing to **open source**.
+        education:
+            -   institution: Amity University, Haryana
+                area: Computer Science & Engineering
+                degree: B.Tech
+                start_date: 2021-09
+                end_date: 2025-06
+                highlights:
+                    - 'GPA: 9.1/10.0'
+                    - 'Activities: Student Co-ordinator, Corporate Resource Centre (CRC) - Collaborated with CRC team and departments to achieve **100% participation in campus drives**'
+            -   institution: Don Bosco School, New Delhi
+                area: Computer Science
+                degree: Senior Secondary
+                start_date: 2019-04
+                end_date: 2021-07
+                highlights:
+                    - 'Percentage: 96.6%'
+                    - 'Activities: **President, SynTech Club** - Organized **3 coding competitions and 2 workshops engaging over 100 participants** | **Senior Member, Mathematics Club** - Organized **1 math quiz and 5 workshops with over 50 participants**'
+        experience:
+            -   company: National Institute of Technology
+                position: Summer Research Intern
+                location: New Delhi, DL, India
+                start_date: 2024-06
+                end_date: 2024-07
+                highlights:
+                    - Collaborated with a team of 3 to blueprint an **IoT-based smart irrigation system** - SprinkLink, leveraging problem-solving skills
+                    - Proposed **water reduction of up to 30%** by using soil moisture sensors and weather data to optimize irrigation scheduling
+            -   company: CodeClause
+                position: Python Development Intern
+                location: Pune, MH, India (Remote)
+                start_date: 2023-08
+                end_date: 2023-09
+                highlights:
+                    - Created a Typing Speed Test GUI using Tkinter, having WPM calculation with up to **95% accuracy** showcasing user-focussed design
+        projects:
+            -   name: Expense Tracker
+                date: '[GitHub - Sn1F3rt/expense-tracker](https://github.com/Sn1F3rt/expense-tracker)'
+                highlights:
+                    - Developed an expense tracker **REST API** with a basic dashboard and **CRUD** functionality to add, update and delete expenses
+                    - 'Tools Used: Node.js, Express.js, EJS, JSON Server'
+            -   name: NerVault
+                date: '[GitHub - nerva-project/NerVault](https://github.com/nerva-project/NerVault)'
+                highlights:
+                    - Created a **custodial web wallet** for the Nerva (XNV) cryptocurrency, with **CRUD** functionality, including email-verification based authentication, making deposits, sending transactions (with QR code support), and exporting wallet keys
+                    - 'Tools Used: Flask, MongoDB, PIL, nerva-py'
+            -   name: BlogChain
+                date: '[GitHub - Sn1F3rt/BlogChain](https://github.com/Sn1F3rt/BlogChain)'
+                highlights:
+                    - Implemented a decentralized blogging platform with **CRUD** functionality and **Web3-based user authentication** using native Pythonic implementation of the **Sign-In with Ethereum (SIWE)** protocol
+                    - 'Tools Used: Flask, MySQL, web3.py, siwe-py'
+        skills:
+            -   label: Languages
+                details: Python, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS
+            -   label: Frameworks
+                details: Flask, Node.js, Express.js, React.js, Vue.js
+            -   label: Databases
+                details: MySQL, MongoDB
+            -   label: DevOps
+                details: Git, GitHub, Docker, CI/CD
+            -   label: Operating Systems
+                details: Windows, Linux, Shell Scripting
+            -   label: Languages
+                details: English (fluent), French (beginner), Hindi (fluent), Bengali (native)
+        certifications:
+            -   label: Google Cybersecurity Specialization
+                details: Certificate ID - [VGJ37YR52SQH](https://www.coursera.org/account/accomplishments/professional-cert/VGJ37YR52SQH)
+            -   label: CS50's Introduction to Programming with Python (edX)
+                details: Certificate ID - [ab65072be8d34a27acc02e2d6eca6b60](https://courses.edx.org/certificates/ab65072be8d34a27acc02e2d6eca6b60)
+
+design:
+    theme: template
+    page:
+        size: us-letter
+        top_margin: 1cm
+        bottom_margin: 1cm
+        left_margin: 1.27cm
+        right_margin: 1.27cm
+        show_page_numbering: false
+        show_last_updated_date: false
+    colors:
+        text: black
+        name: black
+        connections: black
+        section_titles: black
+        links: black
+        last_updated_date_and_page_numbering: grey
+    text:
+        font_family: Libertinus Serif
+        font_size: 10pt
+        leading: 0.6em
+        alignment: justified
+        date_and_location_column_alignment: right
+    links:
+        underline: true
+        use_external_link_icon: false
+    header:
+        name_font_size: 16pt
+        name_bold: true
+        photo_width: 3.5cm
+        vertical_space_between_name_and_connections: 0.5cm
+        vertical_space_between_connections_and_first_section: 0.2cm
+        horizontal_space_between_connections: 0.5cm
+        separator_between_connections: '|'
+        use_icons_for_connections: false
+        alignment: center
+    section_titles:
+        type: with-full-line
+        font_size: 1.2em
+        bold: true
+        small_caps: false
+        line_thickness: 0.5pt
+        vertical_space_above: 0.5cm
+        vertical_space_below: 0.3cm
+        line_type: with-full-line
+    entries:
+        date_and_location_width: 7cm
+        left_and_right_margin: 0cm
+        horizontal_space_between_columns: 0.1cm
+        vertical_space_between_entries: 0.4cm
+        allow_page_break_in_entries: true
+        short_second_row: false
+        show_time_spans_in: [ ]
+    highlights:
+        bullet: •
+        top_margin: 0.25cm
+        left_margin: 0cm
+        vertical_space_between_highlights: 0.19cm
+        horizontal_space_between_bullet_and_highlight: 0.3em
+        summary_left_margin: 0cm
+    entry_types:
+        one_line_entry:
+            template: '**LABEL:** DETAILS'
+        education_entry:
+            main_column_first_row_template: '**INSTITUTION**, DEGREE
+        in AREA -- LOCATION'
+            degree_column_width: 1cm
+            main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+            date_and_location_column_template: DATE
+        normal_entry:
+            main_column_first_row_template: '**NAME** -- **LOCATION**'
+            main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+            date_and_location_column_template: DATE
+        experience_entry:
+            main_column_first_row_template: '**POSITION**, COMPANY --
+        LOCATION'
+            main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+            date_and_location_column_template: DATE
+        publication_entry:
+            main_column_first_row_template: '**TITLE**'
+            main_column_second_row_template: "AUTHORS\nURL (JOURNAL)"
+            main_column_second_row_without_journal_template: "AUTHORS\n\
+        URL"
+            main_column_second_row_without_url_template: "AUTHORS\n\
+        JOURNAL"
+            date_and_location_column_template: DATE
+
+locale:
+    phone_number_format: international
+
+rendercv_settings:
+    render_command:
+        output_folder_name: output
+        dont_generate_html: true
+        dont_generate_markdown: true
+        dont_generate_png: true
