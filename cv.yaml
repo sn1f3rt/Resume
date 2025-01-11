@@ -1,8 +1,8 @@
 cv:
     name: Sayan Bhattacharyya
-    title: Full-Stack Developer
+    title: Software Development Engineer
     location: Gurugram, HR, India
-    email: sayan@sn1f3rt.dev
+    email: bhattacharyya.sayan@outlook.com
     phone: tel:+91-8448462399
     website: https://sn1f3rt.dev
     social_networks:
@@ -72,7 +72,7 @@ cv:
             -   label: DevOps
                 details: Git, GitHub, Docker, CI/CD
             -   label: Operating Systems
-                details: Windows, Linux, Shell Scripting
+                details: Windows, Linux, Shell Scripting, Networking
             -   label: Languages
                 details: English (fluent), French (beginner), Hindi (fluent), Bengali (native)
         certifications:
