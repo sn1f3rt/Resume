@@ -1,7 +1,7 @@
 cv:
     name: Sayan Bhattacharyya
     title: Software Development Engineer
-    location: Gurugram, HR, India
+    location: Gurugram, Haryana
     email: bhattacharyya.sayan@outlook.com
     phone: tel:+91-8448462399
     website: https://sn1f3rt.dev
@@ -29,23 +29,24 @@ cv:
                 end_date: 2021-07
                 highlights:
                     - 'Percentage: 96.6%'
-                    - 'Activities: **President, SynTech Club** - Organized **3 coding competitions and 2 workshops engaging over 100 participants** | **Senior Member, Mathematics Club** - Organized **1 math quiz and 5 workshops with over 50 participants**'
+                    - 'Activities: **President, SynTech Club** - Organized **3 coding competitions and 2 workshops engaging over 100 participants**'
         experience:
+            -   company: Better Software
+                position: Associate Software Engineer
+                location: Rajasthan, Jaipur (remote)
+                start_date: 2025-01
+                end_date: present
+                highlights:
+                    - Creating RESTful APIs using Python/Flask that integrate seamlessly with frontend applications using React.js
+                    - Optimizing the application's server-side performance and translate client requirements into tangible technical solutions
             -   company: National Institute of Technology
                 position: Summer Research Intern
-                location: New Delhi, DL, India
+                location: New Delhi, Delhi
                 start_date: 2024-06
                 end_date: 2024-07
                 highlights:
                     - Collaborated with a team of 3 to blueprint an **IoT-based smart irrigation system** - SprinkLink, leveraging problem-solving skills
                     - Proposed **water reduction of up to 30%** by using soil moisture sensors and weather data to optimize irrigation scheduling
-            -   company: CodeClause
-                position: Python Development Intern
-                location: Pune, MH, India (Remote)
-                start_date: 2023-08
-                end_date: 2023-09
-                highlights:
-                    - Created a Typing Speed Test GUI using Tkinter, having WPM calculation with up to **95% accuracy** showcasing user-focused design
         projects:
             -   name: Expense Tracker
                 date: '[GitHub - Sn1F3rt/expense-tracker](https://github.com/Sn1F3rt/expense-tracker)'
@@ -66,17 +67,17 @@ cv:
             -   label: Languages
                 details: Python, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
             -   label: Frameworks
-                details: Django, Flask, Node.js, Express.js, React.js, Vue.js
+                details: Flask, Node.js, Express.js, React.js, Vue.js
             -   label: Databases
                 details: MySQL, MongoDB
             -   label: DevOps
-                details: Git, GitHub, Docker, CI/CD, Nginx
+                details: Git, GitHub, Docker, Kubernetes, CI/CD, Nginx
             -   label: Operating Systems
-                details: Windows, Linux, Shell Scripting
+                details: Windows, Linux, macOS, Shell Scripting
             -   label: Languages
-                details: English (fluent), French (beginner), Hindi (fluent), Bengali (native)
+                details: English (fluent), French (intermediate), Hindi (fluent), Bengali (native)
         certifications:
-            -   label: Google Cybersecurity Specialization
+            -   label: Google Cybersecurity Professional Certificate
                 details: Certificate ID - [VGJ37YR52SQH](https://www.coursera.org/account/accomplishments/professional-cert/VGJ37YR52SQH)
             -   label: CS50's Introduction to Programming with Python (edX)
                 details: Certificate ID - [ab65072be8d34a27acc02e2d6eca6b60](https://courses.edx.org/certificates/ab65072be8d34a27acc02e2d6eca6b60)
