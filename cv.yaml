@@ -65,9 +65,9 @@ cv:
                     - 'Tools Used: Flask, MySQL, web3.py, siwe-py'
         skills:
             -   label: Languages
-                details: Python, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+                details: Python, JavaScript, TypeScript, HTML, CSS, OOPs
             -   label: Frameworks
-                details: Flask, Node.js, Express.js, React.js, Vue.js
+                details: Flask, Node.js, Express.js, React.js, Vue.js, Tailwind CSS
             -   label: Databases
                 details: MySQL, MongoDB
             -   label: DevOps
