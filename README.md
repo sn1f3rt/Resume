@@ -1,13 +1,13 @@
 # Resume
 
-> My resume generator using RenderCV. 
+> Resume generator using RenderCV. 
 
 ## Usage
 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Sn1F3rt/Resume
+    git clone https://github.com/sn1f3rt/Resume
     ```
 
 2. Install `rendercv` using pip:
@@ -28,4 +28,4 @@
 
 [![License](https://img.shields.io/github/license/Sn1F3rt/Resume)](LICENSE)
 
-Copyright &copy; 2025 Sayan "Sn1F3rt" Bhattacharyya
+Copyright &copy; 2025 Sayan "sn1f3rt" Bhattacharyya
