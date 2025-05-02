@@ -7,19 +7,19 @@
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/sn1f3rt/Resume
+    git clone https://github.com/sn1f3rt/Resume.git
     ```
 
 2. Install `rendercv` using pip:
 
     ```bash
-    pip install rendercv[full]
+    make install
     ```
 
 3. Generate the resume:
 
     ```bash
-    rendercv render "cv.yaml" # or make render
+    make render
     ```
 
     This will generate the CV in the `output` directory.
