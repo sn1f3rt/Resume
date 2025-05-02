@@ -1,6 +1,6 @@
 cv:
   name: Sayan Bhattacharyya
-  title: Software Development Engineer
+  title: Data Scientist
   location: Gurugram, Haryana
   email: bhattacharyya.sayan@outlook.com
   phone: tel:+91-8448462399
@@ -12,7 +12,7 @@ cv:
         username: sn1f3rt
   sections:
     summary:
-      - I am a full-stack developer pursuing a B.Tech in Computer Science & Engineering at Amity University, Haryana. I am **graduating in June 2025**. Proficient in **Python, JavaScript, TypeScript, Flask, and the MERN stack**, I thrive as a **team player and leader** in dynamic, high-pressure environments. I am passionate about building **scalable applications** and contributing to **open source**.
+      - Aspiring Data Scientist currently pursuing a B.Tech in Computer Science & Engineering (graduating June 2025). Proficient in Python, Machine Learning and Deep Learning with hands-on experience in backend development and research. Enthusiastic about building scalable ML models to solve real-world problems.
     education:
       -   institution: Amity University, Haryana
           area: Computer Science & Engineering
@@ -21,6 +21,7 @@ cv:
           end_date: 2025-06
           highlights:
             - 'GPA: 9.2/10.0'
+            - 'Courses: Machine Learning, Artificial Intelligence, Linear Algebra, Probability & Statistics'
             - 'Activities: Coordinator, Corporate Resource Centre – Ensured **100% participation** in placement drives through team collaboration'
       -   institution: Don Bosco School, New Delhi
           area: Computer Science
@@ -37,53 +38,47 @@ cv:
           start_date: 2025-01
           end_date: present
           highlights:
-            - Creating RESTful APIs using Python/Flask that integrate seamlessly with frontend applications using React.js
-            - Optimizing the application's server-side performance and translating client requirements into tangible technical solutions
+            - Created **RESTful APIs using Python/Flask** that integrate seamlessly with frontend applications using **React.js**
+            - Integrated **analytics to monitor API usage patterns** and optimize performance using logging tools and basic anomaly detection techniques
       -   company: National Institute of Technology
           position: Research Intern
           location: New Delhi, Delhi (onsite)
           start_date: 2024-06
           end_date: 2024-07
           highlights:
-            - Collaborated with a team of 3 to blueprint an **IoT-based smart irrigation system** - SprinkLink, leveraging problem-solving skills
-            - Proposed **water reduction of up to 30%** by using soil moisture sensors and weather data to optimize irrigation scheduling
+            - Collaborated with a team of 3 to blueprint an **IoT-based smart irrigation system** - SprinkLink
+            - Used sensor data and weather datasets to model irrigation patterns and propose an optimization strategy which lead to **water reduction of up to 30%**
     projects:
+      -   name: Credit Card Fraud Detection using Hybrid Ensemble Learning
+          date: 'August 2023 – October 2023'
+          highlights:
+            - Developed a hybrid ensemble model combining **Logistic Regression, Decision Tree, SGD, and Gaussian Naïve Bayes** to detect fraudulent credit card transactions
+            - Applied **SMOTE** to address class imbalance across two datasets (real-world and simulated), followed by **10-fold cross-validation**
+            - Achieved **98.81% accuracy** and a **19.6% F1-score improvement** over individual models using a VotingClassifier with optimized hyperparameters
+            - 'Tools Used: Python, Scikit-learn, Pandas, NumPy, Jupyter, Matplotlib, AWS EC2 (c5a.8xlarge)'
       -   name: NerVault
           date: '[GitHub - nerva-project/NerVault](https://github.com/nerva-project/NerVault)'
           highlights:
-            - Created a **custodial web wallet** for the Nerva (XNV) cryptocurrency, with **CRUD** functionality, including email-verification based authentication, making deposits, sending transactions (with QR code support), and exporting wallet keys
+            - Created a **custodial web wallet** for the Nerva (XNV) cryptocurrency, with **CRUD** functionality
+            - Processed transaction data for secure storage and retrieval, applying **structured data modeling** principles
             - 'Tools Used: Flask, MongoDB, PIL, nerva-py'
-      -   name: Expense Tracker
-          date: '[GitHub - Sn1F3rt/expense-tracker](https://github.com/Sn1F3rt/expense-tracker)'
-          highlights:
-            - Developed an expense tracker **REST API** with a basic dashboard and **CRUD** functionality to add, update and delete expenses
-            - 'Tools Used: Node.js, Express.js, EJS, JSON Server'
-      -   name: BlogChain
-          date: '[GitHub - Sn1F3rt/BlogChain](https://github.com/Sn1F3rt/BlogChain)'
-          highlights:
-            - Implemented a decentralized blogging platform with **CRUD** functionality and **Web3-based user authentication** using native Pythonic implementation of the **Sign-In with Ethereum (SIWE)** protocol
-            - 'Tools Used: Flask, MySQL, web3.py, siwe-py'
     skills:
-      -   label: CS Fundamentals
-          details: Data Structures, Algorithms, Object-Oriented Programming (OOP)
+      -   label: Data Science & ML
+          details: Machine Learning, Deep Learning, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, SQL
       -   label: Programming Languages
           details: Python, JavaScript, TypeScript
-      -   label: Backend Development
-          details: Flask, Node.js, Express.js, REST APIs, MySQL, MongoDB
-      -   label: Frontend Development
-          details: React.js, Vue.js, HTML, CSS, Tailwind CSS
       -   label: DevOps
           details: Git, GitHub, Docker, Kubernetes, CI/CD, Nginx, Linux, Shell Scripting
       -   label: Languages
           details: English (fluent), Hindi (fluent), Bengali (native)
     certifications:
-      -   label: Google Cybersecurity Professional Certificate
-          details: Certificate ID - [VGJ37YR52SQH](https://www.coursera.org/account/accomplishments/professional-cert/VGJ37YR52SQH)
+      -   label: AWS Academy Machine Learning Foundations
+          details: Certificate ID - [d1619be2-0fda-432c-9a6e-431315f164bd](https://www.credly.com/badges/d1619be2-0fda-432c-9a6e-431315f164bd)
       -   label: CS50's Introduction to Programming with Python (edX)
           details: Certificate ID - [ab65072be8d34a27acc02e2d6eca6b60](https://courses.edx.org/certificates/ab65072be8d34a27acc02e2d6eca6b60)
 
 design:
-  theme: template
+  theme: schema
   page:
     size: us-letter
     top_margin: 1cm
