@@ -5,7 +5,7 @@ render-ds:
 	uv run rendercv render "template/ds.yaml" -pdf "output/Sayan_Bhattacharyya_Resume.pdf"
 
 render-sde:
-	uv run rendercv render "template/sde.yaml" -pdf "output/Sayan_Bhattacharyya_Resume.pdf"
+	uv run rendercv render "template/swe.yaml" -pdf "output/Sayan_Bhattacharyya_Resume.pdf"
 
 render: render-sde
 
